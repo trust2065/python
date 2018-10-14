@@ -1,4 +1,4 @@
-# using python3
+note: using python3
 
 note:　FB graph tool 在2018.4月歷經大改版,為了確保安全性, 很多的功能都被拿掉, 沒拿掉的也很多變成要通過審核才能使用
 現在用起來簡直像個shit, 建議使用puppeteer / phantomJS來直接操作網頁
